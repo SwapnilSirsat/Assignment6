@@ -26,10 +26,10 @@ def circ_gen(O,r):
 ##we will take A at oringin
 #AC = 6
 #BD = 7
-A = np.array([-3,-3])
-B = np.array([3.5,-3.5])
-C = np.array([3,3])
-D = np.array([-3.5,3.5])
+A = np.array([-3,0])
+B = np.array([0,-3.5])
+C = np.array([3,0])
+D = np.array([0,3.5])
 
 
 
